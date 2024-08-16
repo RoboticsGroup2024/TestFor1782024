@@ -1,4 +1,5 @@
 In the following text you can find the initial instruction in order to open the interface:
+
 1-	Install the operating system Debian 12 using the corresponding image.
 
 2-	sudo apt update && sudo apt upgrade && sudo reboot.
