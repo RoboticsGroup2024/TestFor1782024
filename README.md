@@ -16,7 +16,7 @@ In the following text you can find the initial instruction in order to open the 
    sudo apt install python3-pip
    sudo apt install git
 
-7-	Install qt creator using the following two instructions:
+7-	Install qt creator using the following instructions:
    sudo apt install qtcreator python3-pyqt5
 
    pip install pyside6-essentials –break-system-packages
